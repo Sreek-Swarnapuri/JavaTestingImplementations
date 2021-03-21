@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.golden.hamcrest.HamcrestExampleTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-03-20T11:05:38" hostname="SREEK-PC" time="0.022">
-  <properties/>
-  <testcase name="composition()" classname="com.golden.hamcrest.HamcrestExampleTest" time="0.022"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
