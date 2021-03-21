@@ -1,0 +1,4 @@
+com/golden/cafeshop/CafeTest.java
+ com.golden.cafeshop.CafeTest
+com/golden/hamcrest/HamcrestExampleTest.java
+ com.golden.hamcrest.HamcrestExampleTest
